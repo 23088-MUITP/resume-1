@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nishchay Maurya</h1>
+        <p>Student</p>
+    </header>
+    
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>School Of Scholars</strong>- High School</p>
+        <p>Graduation Year: 2023</p>
+        <p><strong>Masters Union</strong> - Bachelor's Degree in Business Management Studies</p>
+        <p>Graduation Year: 2027</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>-Quick-Learner</li>
+            <li>-Communication</li>
+            <li>-Adaptable</li>
+            <li>-Variety of Knowledge</li>
+            <li>-"Jack of All Trades"</li>
+        </ul>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Email: nishchay.maurya@mastersunion.org</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>LinkedIn: https://www.linkedin.com/in/nishchay-maurya-1b5129229/</p>
+    </section>
+
+</body>
+</html>
+
